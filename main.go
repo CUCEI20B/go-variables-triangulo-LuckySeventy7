@@ -7,6 +7,6 @@ func main()  {
 	var b float64
 	fmt.Scan(&a)
 	fmt.Scan(&b)
-	d := (a * b) * 0.5
-	fmt.Println(d)
+	c := (a * b) * 0.5
+	fmt.Println(c)
 }
